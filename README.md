@@ -1,7 +1,15 @@
 
 # README: Workflow Neo4j no Docker
 
-Este documento descreve os passos validados para configurar e rodar operações básicas no Neo4j executando em Docker. Siga a ordem:
+Este documento foi desenvolvido no âmbito do Curso de Ciência da Computação da Universidade do Vale do Itajaí, sob a disciplina de Banco de Dados II, do Prof. Maurício Pasetto de Freitas. 
+Os autores – Flávia Schnaider, Gregori da Luz Maciel, Miruna Onofrei, Joshua Leite e Diego Silva – apresentam um guia prático para implantação e uso do Neo4j, um Sistema Gerenciador de Banco de Dados NoSQL orientado a grafos.
+Local: Itajaí | Ano: 2025. Siga a ordem:
+
+## Requisitos
+
+- **Sistema Operacional**: Ubuntu 22.04 LTS  
+- **Docker**: Docker Engine e Docker CLI instalados 
+
 
 ## 1. Iniciar container
 
