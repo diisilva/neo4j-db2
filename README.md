@@ -14,8 +14,11 @@ Local: Itajaí | Ano: 2025. Siga a ordem:
 ## 1. Iniciar container
 
 ```bash
-export NEO4J_PASSWORD=minhaSenhaSegura
-docker compose up -d
+export NEO4J_PASSWORD=minhaSenhaSegura 
+Obs: Se estiver no windows, então use : $Env:NEO4J_PASSWORD = 'minhaSenhaSegura'
+
+Depois execute:
+  docker compose up -d
 ```
 
 ## 2. Acessar o Cypher Shell
